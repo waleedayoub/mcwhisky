@@ -1,0 +1,693 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head><title>Buying Guide Search Results - Whisky Advocate</title>
+
+<link rel="stylesheet" href="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/style.css" type="text/css" />
+<link rel="pingback" href="http://whiskyadvocate.com/xmlrpc.php" />
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+	<link rel="shortcut icon" href="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/css/images/favicon.ico" />
+	<link rel="stylesheet" href="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/css/flexslider.css" type="text/css" media="all" />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300italic,300,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css' />
+	
+		<script type="text/javascript" src="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/js/jquery.flexslider.js"></script>
+	<script type="text/javascript" src="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/js/jquery.carouFredSel-6.1.0-packed.js"></script>
+	<script type="text/javascript" src="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/js/functions.js"></script>
+
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/43449268/Leaderboard', [728, 90], 'div-gpt-ad-1376601782969-0').addService(googletag.pubads());
+googletag.defineSlot('/43449268/Sidebar-Bottom', [300, 250], 'div-gpt-ad-1376601782969-1').addService(googletag.pubads());
+googletag.defineSlot('/43449268/Sidebar-Top', [300, 250], 'div-gpt-ad-1376601782969-2').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://whiskyadvocate.com/ratings-reviews/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Buying Guide Search Results -" />
+<meta property="og:url" content="http://whiskyadvocate.com/ratings-reviews/" />
+<meta property="og:site_name" content="Whisky Advocate" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Whisky Advocate &raquo; Feed" href="http://whiskyadvocate.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Whisky Advocate &raquo; Comments Feed" href="http://whiskyadvocate.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Whisky Advocate &raquo; Buying Guide Search Results Comments Feed" href="http://whiskyadvocate.com/ratings-reviews/feed/" />
+<link rel='stylesheet' id='wpsc-thickbox-css'  href='http://whiskyadvocate.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.css?ver=3.8.14.3.86c1a52' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-theme-css-css'  href='http://whiskyadvocate.com/wp-content/themes/whisky-advocate/wpsc-default.css?ver=3.8.14.3.86c1a52' type='text/css' media='all' />
+<style type='text/css'>
+
+		/*
+		* Default View Styling
+		*/
+		div.default_product_display div.textcol{
+			margin-left: 158px !important;
+			min-height: 148px;
+			_height: 148px;
+		}
+
+		div.default_product_display  div.textcol div.imagecol{
+			position:absolute;
+			top:0px;
+			left: 0px;
+			margin-left: -158px !important;
+		}
+
+		div.default_product_display  div.textcol div.imagecol a img {
+			width: 148px;
+			height: 148px;
+		}
+
+		.wpsc_category_grid_item  {
+			display:block;
+			float:left;
+			width: 148px;
+			height: 148px;
+		}
+		.wpsc_category_grid_item  span{
+			position:relative;
+			top:16.222222222222px;
+		}
+		div.default_product_display div.item_no_image a  {
+			width: 146px;
+		}
+
+		div.default_product_display .imagecol img.no-image, #content div.default_product_display .imagecol img.no-image {
+			width: 148px;
+			height: 148px;
+        }
+
+		
+		/*
+		* Single View Styling
+		*/
+
+		div.single_product_display div.item_no_image  {
+			width: 146px;
+			height: 146px;
+		}
+		div.single_product_display div.item_no_image a  {
+			width: 146px;
+		}
+
+		div.single_product_display div.textcol{
+			margin-left: 158px !important;
+			min-height: 148px;
+			_height: 148px;
+		}
+
+
+		div.single_product_display  div.textcol div.imagecol{
+			position:absolute;
+
+			margin-left: -158px !important;
+		}
+
+		div.single_product_display  div.textcol div.imagecol a img {
+			width: 148px;
+			height: 148px;
+		}
+
+	div#categorydisplay{
+		display: block;
+	}
+
+	div#branddisplay{
+		display: none;
+	}
+
+</style>
+<link rel='stylesheet' id='wpsc-theme-css-compatibility-css'  href='http://whiskyadvocate.com/wp-content/themes/whisky-advocate/compatibility.css?ver=3.8.14.3.86c1a52' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://whiskyadvocate.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='A2A_SHARE_SAVE-css'  href='http://whiskyadvocate.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-gold-cart-css'  href='http://whiskyadvocate.com/wp-content/plugins/gold_cart_plugin/css/gold_cart.css?ver=4.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpsc_vars = {"wpsc_ajax":{"ajaxurl":"\/wp-admin\/admin-ajax.php","spinner":"http:\/\/whiskyadvocate.com\/wp-admin\/images\/spinner.gif","no_quotes":"It appears that there are no shipping quotes for the shipping information provided.  Please check the information and try again.","ajax_get_cart_error":"There was a problem getting the current contents of the shopping cart.","slide_to_shipping_error":true},"base_url":"http:\/\/whiskyadvocate.com","WPSC_URL":"http:\/\/whiskyadvocate.com\/wp-content\/plugins\/wp-e-commerce","WPSC_IMAGE_URL":"http:\/\/whiskyadvocate.com\/wp-content\/uploads\/wpsc\/product_images\/","WPSC_CORE_IMAGES_URL":"http:\/\/whiskyadvocate.com\/wp-content\/plugins\/wp-e-commerce\/wpsc-core\/images","fileThickboxLoadingImage":"http:\/\/whiskyadvocate.com\/wp-content\/plugins\/wp-e-commerce\/wpsc-core\/images\/loadingAnimation.gif","msg_shipping_need_recalc":"Please click the <em>Calculate<\/em> button to refresh your shipping quotes, as your shipping information has been modified.","no_country_selected":"Please select a country","no_region_selected_format":"Please select a %s","no_region_label":"State\/Province","base_country":"US","wpsc_country_US_regions":{"14":"Alabama","15":"Alaska","16":"Arizona","17":"Arkansas","18":"California","19":"Colorado","20":"Connecticut","21":"Delaware","22":"Florida","23":"Georgia","24":"Hawaii","25":"Idaho","26":"Illinois","27":"Indiana","28":"Iowa","29":"Kansas","30":"Kentucky","31":"Louisiana","32":"Maine","33":"Maryland","34":"Massachusetts","35":"Michigan","36":"Minnesota","37":"Mississippi","38":"Missouri","39":"Montana","40":"Nebraska","41":"Nevada","42":"New Hampshire","43":"New Jersey","44":"New Mexico","45":"New York","46":"North Carolina","47":"North Dakota","48":"Ohio","49":"Oklahoma","50":"Oregon","51":"Pennsylvania","52":"Rhode Island","53":"South Carolina","54":"South Dakota","55":"Tennessee","56":"Texas","57":"Utah","58":"Vermont","59":"Virginia","60":"Washington","61":"Washington DC","62":"West Virginia","63":"Wisconsin","64":"Wyoming"},"wpsc_country_US_region_label":"State","wpsc_countries":{"US":"USA"},"wpsc_checkout_unique_name_to_form_id_map":{"your-billingcontact-details":"wpsc_checkout_form_1","billingfirstname":"wpsc_checkout_form_2","billinglastname":"wpsc_checkout_form_3","billingaddress":"wpsc_checkout_form_4","billingcity":"wpsc_checkout_form_5","billingcountry":"wpsc_checkout_form_7","billingstate":"wpsc_checkout_form_6","billingpostcode":"wpsc_checkout_form_8","billingphone":"wpsc_checkout_form_18","billingemail":"wpsc_checkout_form_9","delivertoafriend":"wpsc_checkout_form_10","shippingfirstname":"wpsc_checkout_form_11","shippinglastname":"wpsc_checkout_form_12","shippingaddress":"wpsc_checkout_form_13","shippingcity":"wpsc_checkout_form_14","shippingcountry":"wpsc_checkout_form_16","shippingstate":"wpsc_checkout_form_15","shippingpostcode":"wpsc_checkout_form_17","additional-notes":"wpsc_checkout_form_19"},"wpsc_checkout_item_active":{"your-billingcontact-details":true,"billingfirstname":true,"billinglastname":true,"billingaddress":true,"billingcity":true,"billingcountry":true,"billingstate":true,"billingpostcode":true,"billingphone":true,"billingemail":true,"delivertoafriend":true,"shippingfirstname":true,"shippinglastname":true,"shippingaddress":true,"shippingcity":true,"shippingcountry":true,"shippingstate":true,"shippingpostcode":true,"additional-notes":true},"wpsc_checkout_item_required":{"your-billingcontact-details":false,"billingfirstname":true,"billinglastname":true,"billingaddress":true,"billingcity":true,"billingcountry":true,"billingstate":true,"billingpostcode":true,"billingphone":true,"billingemail":true,"delivertoafriend":false,"shippingfirstname":true,"shippinglastname":true,"shippingaddress":true,"shippingcity":true,"shippingcountry":true,"shippingstate":true,"shippingpostcode":true,"additional-notes":false},"store_uses_shipping":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.8.14.3.86c1a52'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/wp-e-commerce/wpsc-admin/js/jquery.livequery.js?ver=1.0.3'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/user.js?ver=3.8.14.386c1a52'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.js?ver=Instinct_e-commerce'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/jquery.query.js?ver=2.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPSC_GoldCart = {"displayMode":"default","productListClass":"wpsc_default_product_list"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/gold_cart_plugin/js/gold_cart.js?ver=4.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://whiskyadvocate.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://whiskyadvocate.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://whiskyadvocate.com/?p=10673' />
+
+<script type="text/javascript"><!--
+var a2a_config=a2a_config||{},wpa2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);wpa2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){wpa2a.script_ready=true;if(wpa2a.html_done)wpa2a.init();}},init:function(){for(var i=0,el,target,targets=wpa2a.targets,length=targets.length;i<length;i++){el=document.getElementById('wpa2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}wpa2a.done=true;}wpa2a.targets=[];}};a2a_config.tracking_callback=['ready',wpa2a.script_onready];
+//--></script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-12534640-6']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<link rel='stylesheet' id='dashicons-css'  href='http://whiskyadvocate.com/wp-includes/css/dashicons.min.css?ver=4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://whiskyadvocate.com/wp-includes/js/thickbox/thickbox.css?ver=4.0' type='text/css' media='all' />
+
+<script type='text/javascript'>var zoomImagesBase = '/wp-content/plugins/wp-fancyzoom/';</script>
+<script src='/wp-content/plugins/wp-fancyzoom/js-global/FancyZoom.js' type='text/javascript'></script>
+<script src='/wp-content/plugins/wp-fancyzoom/js-global/FancyZoomHTML.js' type='text/javascript'></script>
+<script src='/wp-content/plugins/wp-fancyzoom/adddomloadevent.js' type='text/javascript'></script>
+<script type='text/javascript'>addDOMLoadEvent(setupZoom);</script>
+<link rel='alternate' type='application/rss+xml' title='Whisky Advocate Product List RSS' href='http://whiskyadvocate.com?wpsc_action=rss'/>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/43449268/Leaderboard', [728, 90], 'div-gpt-ad-1376601782969-0').addService(googletag.pubads());
+googletag.defineSlot('/43449268/Sidebar-Bottom', [300, 250], 'div-gpt-ad-1376601782969-1').addService(googletag.pubads());
+googletag.defineSlot('/43449268/Sidebar-Top', [300, 250], 'div-gpt-ad-1376601782969-2').addService(googletag.pubads());
+googletag.enableServices();
+});
+</script>
+<style>
+.wpsc-purchase-log-transaction-results { width: 100%; font-size: 15px;line-height: 23px;font-weight: 300;padding-bottom: 25px;}
+.wpsc-purchase-log-transaction-results td { padding: 2px; }
+.wpsc_checkout_table { width: 100%; }
+.wpsc_checkout_table td { padding: 2px; }
+#checkout_page_container .wpsc_make_purchase  { float: none; margin-top: 30px; margin-left: auto; margin-right: auto; width: 100px; text-align: center;}
+.default_product_display .imagecol {overflow: hidden; scroll: none; }
+.wpsc_loading_animation { float: right; }
+.wpsc_buy_button { margin-top: 10px; }
+
+</style>
+</head>
+<body>
+<div class="header-right"></div>
+<div class="header-left"></div>
+<div class="header">
+	<div class="shell">
+		<h1 class="logo"><a href="http://whiskyadvocate.com/">Whisky Advocate</a></h1>
+
+		<div class="small-navigation">
+				<div class="menu-top-secondary-menu-container"><ul id="menu-top-secondary-menu" class="menu"><li id="menu-item-10733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10733"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+<li id="menu-item-10732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10732"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373297484922&#038;lsid=31891007316013639&#038;vid=3">Print Subscription</a></li>
+<li id="menu-item-13247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13247"><a href="http://whiskyadvocate.com/products-page/checkout/">Cart</a></li>
+</ul></div>		</div><!-- /.small-navigation -->
+		
+<!-- Leaderboard -->
+<div class="header-banner" id='div-gpt-ad-1376601782969-0' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376601782969-0'); });
+</script>
+</div>
+
+		<!-- STATIC BANNER <a href="#" class="header-banner"><img src="http://whiskyadvocate.com/wp-content/themes/whisky-advocate/css/images/header-banner.jpg" alt="" /></a>-->
+
+	</div><!-- /.shell -->
+</div><!-- /.header -->
+
+<div class="navigation-holder">
+	<div class="shell">
+		<div class="navigation">
+				<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-10576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10576"><a href="http://whiskyadvocate.com/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-10577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10577"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/">WhiskyFest New York</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16066"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-whisky-list/">Whisky List</a></li>
+		<li id="menu-item-16519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16519"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-speakers/">Speakers</a></li>
+		<li id="menu-item-17301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17301"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-seminars/">Seminars</a></li>
+		<li id="menu-item-10578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10578"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-faq/">FAQ</a></li>
+		<li id="menu-item-10631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10631"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-testimonials/">Testimonials</a></li>
+		<li id="menu-item-10579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10579"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10585"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/">WhiskyFest Chicago</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10586"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-faq/">FAQ</a></li>
+		<li id="menu-item-10604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10604"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-testimonials/">Testimonials</a></li>
+		<li id="menu-item-10587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10587"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10580"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/">WhiskyFest San Francisco</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16067"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-whisky-list/">Whisky List</a></li>
+		<li id="menu-item-16518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16518"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-speakers/">Speakers</a></li>
+		<li id="menu-item-16990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16990"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-seminars/">Seminars</a></li>
+		<li id="menu-item-10634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10634"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco-faq/">FAQ</a></li>
+		<li id="menu-item-10641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10641"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-testimonials/">Testimonials</a></li>
+		<li id="menu-item-10638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10638"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10636"><a href="http://whiskyadvocate.com/events/whiskyfest-tickets/">WhiskyFest Tickets</a></li>
+	<li id="menu-item-10584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10584"><a href="http://whiskyadvocate.com/events/whiskyfest-blog/">WhiskyFest Blog</a></li>
+	<li id="menu-item-10637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10637"><a href="http://whiskyadvocate.com/events/whiskyfest-videos/">WhiskyFest Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-10718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10718"><a href="http://whiskyadvocate.com/magazine/">Magazine</a>
+<ul class="sub-menu">
+	<li id="menu-item-10719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10719"><a href="/magazine">In this Issue</a></li>
+	<li id="menu-item-10720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720"><a href="http://whiskyadvocate.com/magazine/about-whisky-advocate/">About Whisky Advocate</a></li>
+	<li id="menu-item-10721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10721"><a href="http://whiskyadvocate.com/magazine/im-a-whisky-advocate/">I&#8217;m a Whisky Advocate</a></li>
+	<li id="menu-item-15583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15583"><a href="http://whiskyadvocate.com/help/find-a-craft-distiller/">Find a Craft Distiller</a></li>
+	<li id="menu-item-15584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15584"><a href="http://whiskyadvocate.com/help/find-a-retailer/">Find a Retailer</a></li>
+	<li id="menu-item-10722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10722"><a target="_blank" href="https://sub.winespectator.com/servlet/ECareGateway?cds_mag_code=WNE">Customer Care</a></li>
+	<li id="menu-item-10723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10723"><a href="http://whiskyadvocate.com/magazine/contact/">Contact</a></li>
+	<li id="menu-item-10724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10724"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373297484922&#038;lsid=31891007316013639&#038;vid=3">Print Subscription</a></li>
+	<li id="menu-item-10725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10725"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+	<li id="menu-item-10726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10726"><a target="_blank" href="https://sub.whiskyadvocate.com/servlet/GiftsGateway?cds_mag_code=MAV&#038;cds_page_id=136730">Gift Subscription</a></li>
+	<li id="menu-item-10727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10727"><a target="_blank" href="http://mshanken.buysub.com/whiskey-advocate.html">Back Issues</a></li>
+</ul>
+</li>
+<li id="menu-item-13284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13284"><a href="http://whiskyadvocate.com/buying-guide/">Buying Guide</a></li>
+<li id="menu-item-10729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10729"><a href="http://whiskyadvocate.com/blog/">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-14907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14907"><a href="http://whiskyadvocate.com/blog/">Whisky Advocate Blog</a></li>
+	<li id="menu-item-14908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14908"><a href="http://whiskyadvocate.com/events/whiskyfest-blog/">WhiskyFest Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-10775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10775"><a href="http://whiskyadvocate.com/products-page/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-12985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12985"><a href="/events/whiskyfest-tickets">Tickets</a></li>
+	<li id="menu-item-12986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12986"><a href="/products-page">Whisky Related Gifts</a></li>
+	<li id="menu-item-12987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12987"><a target="_blank" href="http://mshanken.buysub.com/whiskey-advocate.html">Back Issues</a></li>
+	<li id="menu-item-12988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12988"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373905959894&#038;lsid=31961132398019158&#038;vid=1">Magazine Subscription</a></li>
+	<li id="menu-item-12989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12989"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+	<li id="menu-item-10778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10778"><a href="http://whiskyadvocate.com/products-page/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li id="menu-item-10731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10731"><a href="http://whiskyadvocate.com/whisky-101/">Whisky 101</a>
+<ul class="sub-menu">
+	<li id="menu-item-13347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13347"><a href="http://whiskyadvocate.com/whisky-101/">Understanding Whisky</a>
+	<ul class="sub-menu">
+		<li id="menu-item-13325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13325"><a href="http://whiskyadvocate.com/scotch/">Scotch</a></li>
+		<li id="menu-item-13324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13324"><a href="http://whiskyadvocate.com/irish/">Irish</a></li>
+		<li id="menu-item-13323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13323"><a href="http://whiskyadvocate.com/american/">American</a></li>
+		<li id="menu-item-13322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13322"><a href="http://whiskyadvocate.com/canadian/">Canadian</a></li>
+	</ul>
+</li>
+	<li id="menu-item-13320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13320"><a href="http://whiskyadvocate.com/whisky-101/appreciating-whisky/">Appreciating Whisky</a></li>
+	<li id="menu-item-13319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13319"><a href="http://whiskyadvocate.com/whisky-101/conducting-a-whisky-tasting/">Conducting a Whisky Tasting</a></li>
+	<li id="menu-item-13318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13318"><a href="http://whiskyadvocate.com/whisky-101/new-trends/">New Trends</a></li>
+</ul>
+</li>
+</ul></div>		</div><!-- /.navigation -->
+
+		<a href="#" class="mobile-nav-trigger">Menu</a>
+
+		<div class="navigation mobile-navigation">
+				<div class="menu-main-container"><ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10576"><a href="http://whiskyadvocate.com/events/">Events</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10577"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/">WhiskyFest New York</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16066"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-whisky-list/">Whisky List</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16519"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-speakers/">Speakers</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17301"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-seminars/">Seminars</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10578"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-faq/">FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10631"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-testimonials/">Testimonials</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10579"><a href="http://whiskyadvocate.com/events/whiskyfest-new-york/whiskyfest-new-york-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10585"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/">WhiskyFest Chicago</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10586"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-faq/">FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10604"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-testimonials/">Testimonials</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10587"><a href="http://whiskyadvocate.com/events/whiskyfest-chicago/whiskyfest-chicago-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10580"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/">WhiskyFest San Francisco</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16067"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-whisky-list/">Whisky List</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16518"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-speakers/">Speakers</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16990"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-seminars/">Seminars</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10634"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco-faq/">FAQ</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10641"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-testimonials/">Testimonials</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10638"><a href="http://whiskyadvocate.com/events/whiskyfest-san-francisco/whiskyfest-san-francisco-gallery/">Gallery</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10636"><a href="http://whiskyadvocate.com/events/whiskyfest-tickets/">WhiskyFest Tickets</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10584"><a href="http://whiskyadvocate.com/events/whiskyfest-blog/">WhiskyFest Blog</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10637"><a href="http://whiskyadvocate.com/events/whiskyfest-videos/">WhiskyFest Videos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10718"><a href="http://whiskyadvocate.com/magazine/">Magazine</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10719"><a href="/magazine">In this Issue</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10720"><a href="http://whiskyadvocate.com/magazine/about-whisky-advocate/">About Whisky Advocate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10721"><a href="http://whiskyadvocate.com/magazine/im-a-whisky-advocate/">I&#8217;m a Whisky Advocate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15583"><a href="http://whiskyadvocate.com/help/find-a-craft-distiller/">Find a Craft Distiller</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15584"><a href="http://whiskyadvocate.com/help/find-a-retailer/">Find a Retailer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10722"><a target="_blank" href="https://sub.winespectator.com/servlet/ECareGateway?cds_mag_code=WNE">Customer Care</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10723"><a href="http://whiskyadvocate.com/magazine/contact/">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10724"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373297484922&#038;lsid=31891007316013639&#038;vid=3">Print Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10725"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10726"><a target="_blank" href="https://sub.whiskyadvocate.com/servlet/GiftsGateway?cds_mag_code=MAV&#038;cds_page_id=136730">Gift Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10727"><a target="_blank" href="http://mshanken.buysub.com/whiskey-advocate.html">Back Issues</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13284"><a href="http://whiskyadvocate.com/buying-guide/">Buying Guide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10729"><a href="http://whiskyadvocate.com/blog/">Blog</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14907"><a href="http://whiskyadvocate.com/blog/">Whisky Advocate Blog</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14908"><a href="http://whiskyadvocate.com/events/whiskyfest-blog/">WhiskyFest Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10775"><a href="http://whiskyadvocate.com/products-page/">Shop</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12985"><a href="/events/whiskyfest-tickets">Tickets</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12986"><a href="/products-page">Whisky Related Gifts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12987"><a target="_blank" href="http://mshanken.buysub.com/whiskey-advocate.html">Back Issues</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12988"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373905959894&#038;lsid=31961132398019158&#038;vid=1">Magazine Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12989"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10778"><a href="http://whiskyadvocate.com/products-page/checkout/">Checkout</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10731"><a href="http://whiskyadvocate.com/whisky-101/">Whisky 101</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13347"><a href="http://whiskyadvocate.com/whisky-101/">Understanding Whisky</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13325"><a href="http://whiskyadvocate.com/scotch/">Scotch</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13324"><a href="http://whiskyadvocate.com/irish/">Irish</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13323"><a href="http://whiskyadvocate.com/american/">American</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13322"><a href="http://whiskyadvocate.com/canadian/">Canadian</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13320"><a href="http://whiskyadvocate.com/whisky-101/appreciating-whisky/">Appreciating Whisky</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13319"><a href="http://whiskyadvocate.com/whisky-101/conducting-a-whisky-tasting/">Conducting a Whisky Tasting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13318"><a href="http://whiskyadvocate.com/whisky-101/new-trends/">New Trends</a></li>
+</ul>
+</li>
+</ul></div>		</div><!-- /.navigation -->
+
+		<div class="search">
+		<form method="post" action="/">
+			<input type="text" class="field" value="Search" name="s" title="Search" />
+			<input type="submit" class="search-button" value="Search" /></form>
+		</div><!-- /.search -->
+	</div><!-- /.shell -->
+</div><!-- /.navigation -->
+<div class="main">
+	<div class="shell clearfix">
+
+
+
+
+
+		<div class="content">
+
+					<div class="post">
+				<h2 class="post-title">Buying Guide Search Results</h2>
+				<div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Bowmore, 40 year old, 44.8% Price: $11,000.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=82">Bowmore</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=1">Single Malt Scotch</a><br /><br />Definitely showing its age, but not in a bad way — the distillery character is still there. Solid foundation of thick, chewy toffee, old pot still rum, and fig cake. Fruity too, with notes of golden raisin and nectarine. Soft, seductive peat smoke, juicy oak, cinnamon, and brine round out the palate. Excellent balance! One of the finest Bowmore whiskies I’ve ever tasted (and, at this price, will probably never taste again.) (Editor's Pick) <br /><em><b>(<a href="/ratings-reviews/?issue_id=55">Summer 2011</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=1022' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>The Dalmore, 50 year old, 52.8% Price: $1,500.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=91">Dalmore</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=1">Single Malt Scotch</a><br /><br />The Dalmore is one of a handful of whiskies that seem to be able to age in the cask for many decades and still improve. This one is incredibly viscous on the nose and palate (and very heavy on the tongue), with chewy toffee and old pot still rum. The classic Dalmore marmalade note shines throughout, along with vanilla cream, an array of dried spices (especially cinnamon and evergreen), juicy oak, forest bedding, rancio, old armagnac, polished leather, tobacco, maple syrup, dark chocolate, almond macaroon, and subtle espresso. Long, mouth-coating finish. The flavors evolve like waves lapping on the palate -- especially the interplay with the oak. I can&#8217;t drink this whisky slowly enough. A rare experience for the lucky few who can afford it. (Price is per 100ml).<br /><em><b>(<a href="/ratings-reviews/?issue_id=35">Fall 2009</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=750' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Glenfarclas Family Casks 1954 Cask #1260, 47.2% Price: $3,360.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=105">Glenfarclas</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=1">Single Malt Scotch</a><br /><br />A rich amber color and elegantly oxidized notes greet you. There are luscious old fruits—pineapple, dried peach, apricot—and puffs of coal-like smokiness. In time, sweet spices (cumin especially) emerge. Superbly balanced. The palate, while fragile, still has real sweetness alongside a lick of treacle. It can take a drop of water, allowing richer, darker fruits to emerge. The finish is powerful, long, and resonant. Superb, not over-wooded, and a fair price for such a rarity. £1,995<br /><em><b>(<a href="/ratings-reviews/?issue_id=79">Fall 2014</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=Dave Broom">Dave Broom</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=2263' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>The Glenlivet Cellar Collection, 1969 vintage, 50.8% Price: $750.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=111">Glenlivet</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=1">Single Malt Scotch</a><br /><br />It&#8217;s great that Glenlivet releases whiskies under the 'Cellar Collection' label. It really shows the true potential of Glenlivet. This bottling is classic ultra-matured Glenlivet, and rivals the 1959 vintage Cellar Collection as the best one ever. An incredibly complex whisky, with notes of vanilla, ripe barley, coconut, and caramel. All this is accentuated by glazed orange, hazelnut, and a potpourri of dried spices. Not the least bit tired for such an aged whisky. (Only 800 bottles for the U.S.)<br /><em><b>(<a href="/ratings-reviews/?issue_id=37">Winter 2007</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=353' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Macallan 1976 Vintage, 29 year old, cask #11354, 45.4% Price: $1,500.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=135">Macallan</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=1">Single Malt Scotch</a><br /><br />Classic sherry cask-aged Macallan. Antique amber with hints of ruby. Thickly textured, complex, and quite deep, with notes of toffee, ripe pit fruit, raisin, apple pie, dried spice (cinnamon, clove, ginger, and mint), and a wisp of smoke. An exceptional, multi-faceted Macallan! 
+<br /><em><b>(<a href="/ratings-reviews/?issue_id=30">Spring 2008</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=479' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Rittenhouse Rye, 25 year old, (Barrel #1), 50% Price: $190.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=165">Rittenhouse</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=5">Rye Whiskey</a><br /><br />Surprisingly lively. Very much like the 21 year old release in this regard, but not as spicy on the nose or palate. Instead, the spice is replaced by a layered, satisfying sweetness -- not by wood, like the somewhat lethargic, oak-dominated 23 year old release. Older doesn&#8217;t mean that it <em>tastes</em> older. Deep, nutty toffee foundation, with nougat, candied tropical fruit, and shoo-fly pie. The spices (cinnamon, spearmint, vanilla, cocoa powder) emerge mid-palate and linger, warming the finish. Not as vibrant as the 21 year old expression, but more sophisticated. I can&#8217;t speak for the other barrels in this lot, but I think this one is a great example of what a 20-plus year old rye whiskey should taste like.<br /><em><b>(<a href="/ratings-reviews/?issue_id=4">Winter 2009</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=782' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Sazerac Rye, 18 year old, 1983, 45% Price: $38.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=166">Sazerac</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=5">Rye Whiskey</a><br /><br />Deep amber color. Bold and surprisingly youthful aromas, and quite vibrant for its age-huge spicy notes (mint, cinnamon, vanilla, anise, freshly ground pepper), with rich toffee, caramel and background fruit. Rich, enveloping body. Enormous in flavor, with youthful dynamic spices (mint, cinnamon, vanilla, pepper), wrapped in rich toffee and molasses, tamed by mature oak and leather notes. The flavors intensify on the palate, ultimately reaching a crescendo. The boldness of the spices and maturity of age dovetail perfectly. Its finish is very satisfying and seemingly eternal. 
+<br /><em><b>(<a href="/ratings-reviews/?issue_id=29">Spring 2002</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=87' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Sazerac Rye 18 year old, 45% Price: $70.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=166">Sazerac</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=5">Rye Whiskey</a><br /><br />Very similar to last year’s release. Well rounded, with a gently sweet foundation (toffee, vanilla taffy), pleasant spice (cinnamon, mocha, soft evergreen), date, glazed citrus, bramble, and a gentle finish for a rye. A classic ultra-aged rye whiskey. <br /><em><b>(<a href="/ratings-reviews/?issue_id=57">Winter 2011</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=1227' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Thomas H. Handy, 66.35% Price: $55.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=167">Thomas H. Handy</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=5">Rye Whiskey</a><br /><br />Just what the category was missing -- a stellar, young, barrel-proof rye whiskey. Hugely spicy, with piercing mint, fiery cinnamon, vanilla, coconut, and fennel. Underlying notes of caramel, honey, and Seville orange provide some civility. It has more zing and richness than other young rye whiskeys, and it lacks the tired woodiness of the majority of the older rye expressions on the market. A clean, powerful, vibrant whisky that is a must for any rye enthusiast.<br /><em><b>(<a href="/ratings-reviews/?issue_id=21">Spring 2007</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=92' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><div style='vertical-align:top'><div style='float:left; width:50px;'><h2>96</h2></div><div style='margin:50px;' class='review'><h2>Willett Family Reserve, Single Barrel, Rye, Barrel #618, 22 year old, 1984 vintage, 68.35% Price: $175.00</h2>      		<b>Brand:</b> <a href="/ratings-reviews/?brand_id=169">Willett Rye</a><br/>			<b>Category: </b> <a href="/ratings-reviews/?category_id=5">Rye Whiskey</a><br /><br />The first rye whiskey I have tasted to rival the Sazerac Rye 18 year old. This is a great whiskey from beginning to end. Soothing layers of sweetness (vanilla, maple syrup, cookie dough, toffee) are balanced by candied fruit and waves of spice (mint, cinnamon, nutmeg, cocoa powder).l The palate is clean, the flavors are deep, the spices are well-defined, and there&#8217;s not one hint of excessive or tired oak. A bench-mark rye. (A Ledger&#8217;s Liquors exclusive.) 
+<br /><em><b>(<a href="/ratings-reviews/?issue_id=50">Winter 2006</a>)&nbsp;Reviewed by: <a href="/ratings-reviews/?reviewer=John Hansell">John Hansell</a></b></em><br/><br/><a href='../shelf_talker.php?review_id=106' target='_blank'>Print Shelf Talker</a><br/><br/></div></div><a href="?brand_id=0&rating=0&price=0&category_id=0&issue_id=0&reviewer=0&page_num=0">Last 10 Reviews</a> |<a href="?brand_id=0&rating=0&price=0&category_id=0&issue_id=0&reviewer=0&page_num=2">Next 10 Reviews</a>
+
+						
+	
+			</div>
+		</div>
+		
+<div class="sidebar">
+			<ul class="widgets">
+<li id="whiskyreviewer-widget-4" class="widget whiskyreviewer"><h2 class="widget-title"><a href="#">Buying Guide</a></h2>		<div class="widget-ad-entry">		<form name="whisky-search" action="/ratings-reviews/" method="get" class="search-form">			<!--<label>Brand Name:</label>--><br/>			<select name='brand_id'>		<option value='0'>Search by Brand Name</option>					<option value='316'> </option>							<option value='189'>(ri)1</option>							<option value='65'>1792 Ridgemont Reserve</option>							<option value='448'>1910</option>							<option value='595'>66 Gilead</option>							<option value='42'>80 Strong</option>							<option value='570'>A. D. Rattray</option>							<option value='68'>Aberfeldy</option>							<option value='67'>Aberlour</option>							<option value='320'>Abhainn Dearg</option>							<option value='322'>Abraham Bowman</option>							<option value='566'>Adelphi</option>							<option value='351'>Alberta </option>							<option value='408'>Alibi</option>							<option value='532'>Allt-a-Bhainne</option>							<option value='590'>American Born</option>							<option value='486'>Amherst</option>							<option value='190'>Amrut</option>							<option value='162'>Anchor Old Potrero</option>							<option value='183'>Ancient Ancient Age</option>							<option value='250'>Angel&#039;s Envy</option>							<option value='69'>Ardbeg</option>							<option value='70'>Ardmore</option>							<option value='554'>Arizona Distilling</option>							<option value='311'>Armorik</option>							<option value='71'>Arran</option>							<option value='72'>Auchentoshan</option>							<option value='252'>Auchroisk</option>							<option value='400'>Auld Reekie</option>							<option value='244'>Bain's Cape</option>							<option value='268'>Bainbridge</option>							<option value='577'>Baker&#039;s</option>							<option value='248'>Bakery Hill</option>							<option value='73'>Balblair</option>							<option value='348'>Balcones</option>							<option value='321'>Ballantine's</option>							<option value='215'>Balmenach</option>							<option value='74'>Balvenie</option>							<option value='75'>Banff</option>							<option value='578'>Basil Hayden&#039;s</option>							<option value='355'>Bastille</option>							<option value='545'>BeanBall</option>							<option value='239'>Belgian Owl</option>							<option value='313'>Belgrove</option>							<option value='476'>Belle Meade</option>							<option value='76'>Ben Nevis</option>							<option value='77'>BenRiach</option>							<option value='78'>Benrinnes</option>							<option value='79'>Benromach</option>							<option value='602'>Berentzen</option>							<option value='388'>Berkshire </option>							<option value='43'>Bernheim</option>							<option value='293'>Big Bottom </option>							<option value='399'>Big Peat</option>							<option value='27'>Black Bottle</option>							<option value='193'>Black Bull</option>							<option value='473'>Black Eagle</option>							<option value='229'>Black Grouse</option>							<option value='492'>Black Ridge</option>							<option value='378'>Black Velvet</option>							<option value='11'>Blackadder</option>							<option value='80'>Bladnoch</option>							<option value='81'>Blair Athol</option>							<option value='359'>Blue Hanger</option>							<option value='514'>Bonded Stock</option>							<option value='468'>Booker&#39;s</option>							<option value='82'>Bowmore</option>							<option value='490'>Braes of Glenlivet</option>							<option value='559'>Braunstein</option>							<option value='584'>Breaker</option>							<option value='363'>Breaking & Entering</option>							<option value='373'>Breakout</option>							<option value='401'>Breath of Islay</option>							<option value='441'>Breckenridge</option>							<option value='312'>Breizh</option>							<option value='426'>Brenne</option>							<option value='557'>Broger</option>							<option value='83'>Brora</option>							<option value='84'>Bruichladdich</option>							<option value='493'>Buckhorn</option>							<option value='44'>Buffalo Trace</option>							<option value='264'>Bulleit</option>							<option value='85'>Bunnahabhain</option>							<option value='382'>Bushmills</option>							<option value='565'>Cabin Fever</option>							<option value='341'>Cambus</option>							<option value='161'>Cameronbridge</option>							<option value='188'>Canadian Club</option>							<option value='597'>Canadian Leaf</option>							<option value='236'>Canadian Mist</option>							<option value='420'>Canadian Rockies</option>							<option value='598'>Canadian Supreme</option>							<option value='86'>Caol Ila</option>							<option value='87'>Caperdonich</option>							<option value='21'>Cardhu</option>							<option value='234'>Caribou Crossing</option>							<option value='569'>Carn Mor</option>							<option value='160'>Carsebridge</option>							<option value='196'>Cascade Peak</option>							<option value='604'>Catch Fire</option>							<option value='284'>Catoctin Creek</option>							<option value='550'>Catskill</option>							<option value='298'>Cedar Ridge</option>							<option value='563'>Celtic Honey</option>							<option value='523'>Centennial Spiced</option>							<option value='421'>Century Reserve</option>							<option value='184'>Charbay</option>							<option value='331'>Chichibu</option>							<option value='524'>Chicken Cock</option>							<option value='453'>Chita</option>							<option value='28'>Chivas</option>							<option value='360'>Clan Denny</option>							<option value='45'>Classic Cask</option>							<option value='500'>Clyde May</option>							<option value='88'>Clynelish</option>							<option value='498'>Cody Road</option>							<option value='603'>Coldcock</option>							<option value='266'>Collingwood</option>							<option value='22'>Compass Box</option>							<option value='329'>Concannon</option>							<option value='16'>Connemara</option>							<option value='270'>Convalmore</option>							<option value='390'>Copper Fox</option>							<option value='519'>Copper House</option>							<option value='549'>Coppersea</option>							<option value='346'>Corsair</option>							<option value='352'>Coyote Ugly</option>							<option value='89'>Cragganmore</option>							<option value='534'>Craigellachie</option>							<option value='2'>Crown Royal</option>							<option value='181'>Cutty Sark</option>							<option value='350'>Dad's Hat</option>							<option value='290'>Dailuaine</option>							<option value='90'>Dallas Dhu</option>							<option value='91'>Dalmore</option>							<option value='92'>Dalwhinnie</option>							<option value='3'>Danfield's</option>							<option value='496'>Darby&#039;s</option>							<option value='326'>Dark Corner</option>							<option value='93'>Deanston</option>							<option value='509'>Deerhammer</option>							<option value='510'>Defiant</option>							<option value='299'>Delaware Phoenix</option>							<option value='46'>Delilah's</option>							<option value='30'>Dewar's</option>							<option value='425'>Diggers & Ditch</option>							<option value='485'>Dillons</option>							<option value='47'>Distillers' Masterpiece</option>							<option value='361'>Double Barrel</option>							<option value='525'>Douglas Laing</option>							<option value='478'>Downslope</option>							<option value='333'>Drambuie</option>							<option value='261'>Draymans</option>							<option value='269'>Dry Fly </option>							<option value='17'>Dun Beghan</option>							<option value='262'>DYC</option>							<option value='263'>E. H. Taylor Jr.</option>							<option value='386'>E.H. Taylor </option>							<option value='180'>Eades</option>							<option value='48'>Eagle Rare</option>							<option value='227'>Early Times </option>							<option value='583'>Edgefield</option>							<option value='94'>Edradour</option>							<option value='531'>Elements of Islay</option>							<option value='292'>Elijah Craig</option>							<option value='483'>Ellington</option>							<option value='49'>Elmer T. Lee</option>							<option value='457'>Embrujo</option>							<option value='50'>Evan Williams</option>							<option value='527'>Exclusive Malts</option>							<option value='51'>Ezra B</option>							<option value='23'>Famous Grouse</option>							<option value='560'>Fary Lochan</option>							<option value='253'>Fettercairn</option>							<option value='475'>Few</option>							<option value='387'>Filibuster</option>							<option value='280'>Finger Lakes</option>							<option value='310'>Fireball</option>							<option value='444'>Fitch's Goat</option>							<option value='4'>Forty Creek</option>							<option value='52'>Four Roses</option>							<option value='325'>Fremont Mischief</option>							<option value='415'>Garrison Brothers</option>							<option value='558'>Gelephu distillery</option>							<option value='54'>George Dickel</option>							<option value='53'>George T. Stagg</option>							<option value='418'>Gibson's</option>							<option value='542'>Girvan</option>							<option value='240'>Glann ar Mor </option>							<option value='5'>Glen Breton</option>							<option value='538'>Glen Deveron</option>							<option value='95'>Glen Elgin</option>							<option value='107'>Glen Garioch</option>							<option value='96'>Glen Grant</option>							<option value='97'>Glen Keith</option>							<option value='402'>Glen Mhor</option>							<option value='217'>Glen Moray</option>							<option value='98'>Glen Ord</option>							<option value='99'>Glen Scotia</option>							<option value='100'>Glen Spey</option>							<option value='533'>Glenallachie</option>							<option value='101'>Glenburgie</option>							<option value='102'>Glencadam</option>							<option value='103'>GlenDronach</option>							<option value='104'>Glendullan</option>							<option value='105'>Glenfarclas</option>							<option value='106'>Glenfiddich</option>							<option value='108'>Glenglassaugh</option>							<option value='109'>Glengoyne</option>							<option value='110'>Glenkinchie</option>							<option value='111'>Glenlivet</option>							<option value='112'>Glenlossie</option>							<option value='113'>Glenmorangie</option>							<option value='114'>Glenrothes</option>							<option value='115'>Glentauchers</option>							<option value='116'>Glenturret</option>							<option value='117'>Glenugie</option>							<option value='118'>Glenury Royal</option>							<option value='536'>Gordon & MacPhail</option>							<option value='201'>Gouden Carolus</option>							<option value='516'>Grand Grizzly</option>							<option value='540'>Grand Macnish</option>							<option value='226'>Grand Traverse </option>							<option value='446'>Grandaddy Mimms</option>							<option value='585'>Grandten</option>							<option value='370'>Great Lakes</option>							<option value='556'>Green Spot</option>							<option value='173'>Greenore</option>							<option value='576'>H5</option>							<option value='330'>Hakushu</option>							<option value='494'>Hancock&#039;s</option>							<option value='462'>Hankey Bannister</option>							<option value='454'>Hanyu</option>							<option value='589'>Hayes Parker</option>							<option value='274'>Hazelburn</option>							<option value='487'>Heartwood</option>							<option value='279'>Heaven Hill</option>							<option value='242'>Hedgehog</option>							<option value='315'>Hellyers</option>							<option value='342'>Henry McKenna</option>							<option value='192'>Hibiki</option>							<option value='163'>High West</option>							<option value='119'>Highland Park</option>							<option value='419'>Highwood</option>							<option value='6'>Hirsch Rye</option>							<option value='295'>Hudson</option>							<option value='283'>Hudson New York</option>							<option value='356'>Hven Rackafallsbyn </option>							<option value='219'>Ichiro</option>							<option value='120'>Imperial</option>							<option value='121'>Inchgower</option>							<option value='122'>Inchmurrin</option>							<option value='256'>Inish Turk Beg</option>							<option value='8'>Invergordon</option>							<option value='267'>Inverleven</option>							<option value='199'>Islay Mist</option>							<option value='123'>Isle of Jura</option>							<option value='194'>Isle of Skye</option>							<option value='488'>Italian Single Malt</option>							<option value='582'>J. T. S. Brown</option>							<option value='580'>J. W. Dant</option>							<option value='546'>J.R. Ewing</option>							<option value='407'>Jack Daniel's</option>							<option value='436'>Jacob&#039;s Ghost</option>							<option value='366'>Jailers</option>							<option value='464'>James Brookes</option>							<option value='596'>James Foxe</option>							<option value='18'>Jameson</option>							<option value='55'>Jefferson's</option>							<option value='323'>Jeremiah Weed</option>							<option value='233'>Jim Beam</option>							<option value='343'>John B. Stetson</option>							<option value='397'>John Distilleries</option>							<option value='362'>John J. Bowman</option>							<option value='24'>John McDougall's Selection</option>							<option value='25'>Johnnie Walker</option>							<option value='368'>Judd's Wrecking Ball</option>							<option value='260'>Kaiapoi</option>							<option value='327'>Kansas Clean Distilled</option>							<option value='220'>Karuizawa</option>							<option value='245'>Kavalan</option>							<option value='56'>Kentucky Vintage</option>							<option value='174'>Kilbeggan</option>							<option value='206'>Kilchoman</option>							<option value='251'>Kilkerran</option>							<option value='124'>Kinclaith</option>							<option value='32'>King's Crest</option>							<option value='567'>Kirkland</option>							<option value='19'>Knappogue Castle</option>							<option value='232'>Knob Creek</option>							<option value='319'>Knockando</option>							<option value='241'>Kornog</option>							<option value='281'>Koval</option>							<option value='600'>Lac’ Holl</option>							<option value='125'>Lagavulin</option>							<option value='515'>Laird of Findlay</option>							<option value='126'>Laphroaig</option>							<option value='247'>Lark</option>							<option value='503'>Last Mountain</option>							<option value='127'>Ledaig</option>							<option value='303'>Leopold Bros.</option>							<option value='455'>Limeburners</option>							<option value='129'>Linkwood</option>							<option value='128'>Linlithgow</option>							<option value='130'>Littlemill</option>							<option value='132'>Loch Lomond</option>							<option value='131'>Lochside</option>							<option value='548'>Lock Stock & Barrel</option>							<option value='198'>Lombard</option>							<option value='134'>Longmorn</option>							<option value='133'>Longrow</option>							<option value='517'>Lord Calvert</option>							<option value='572'>Lord Elcho</option>							<option value='447'>Lot No. 40</option>							<option value='587'>Lovell Bros.</option>							<option value='277'>Low Gap Whiskey</option>							<option value='135'>Macallan</option>							<option value='537'>Macduff</option>							<option value='254'>Mackinlay</option>							<option value='176'>Mackmyra</option>							<option value='223'>Maker's Mark </option>							<option value='136'>Mannochmore</option>							<option value='278'>Marko K. Spirits</option>							<option value='291'>Master of Malt</option>							<option value='294'>Masterson's </option>							<option value='497'>McCarthy&#039;s</option>							<option value='300'>McKenzie</option>							<option value='257'>Michael Collins</option>							<option value='13'>Michel Couvreur </option>							<option value='57'>Michter's</option>							<option value='20'>Midleton</option>							<option value='512'>Midnight Moon</option>							<option value='10'>Milford</option>							<option value='237'>Millstone</option>							<option value='137'>Miltonduff</option>							<option value='506'>Miyagikyo</option>							<option value='466'>Monarch of The Glen</option>							<option value='138'>Mortlach</option>							<option value='157'>Mosstowie</option>							<option value='416'>Myer Farm</option>							<option value='255'>Naked Grouse</option>							<option value='314'>Nant</option>							<option value='296'>New Holland</option>							<option value='521'>New York Honey</option>							<option value='380'>New Zealand</option>							<option value='222'>Nikka</option>							<option value='481'>Ninety</option>							<option value='58'>Noah's Mill</option>							<option value='575'>North British</option>							<option value='159'>North of Scotland</option>							<option value='139'>North Port</option>							<option value='592'>O&#039;Begley</option>							<option value='158'>Oban</option>							<option value='171'>Old Ballantruan</option>							<option value='214'>Old Crow Reserve</option>							<option value='581'>Old Fitzgerald</option>							<option value='59'>Old Forester</option>							<option value='579'>Old Grand-Dad</option>							<option value='286'>Old Hobart</option>							<option value='60'>Old Pogue</option>							<option value='140'>Old Pulteney</option>							<option value='547'>Orphan Barrel</option>							<option value='424'>Overeem</option>							<option value='470'>Paddleford Creek</option>							<option value='504'>Paddy</option>							<option value='591'>Painted Stave</option>							<option value='513'>Palmetto Moonshine</option>							<option value='61'>Pappy Van Winkle</option>							<option value='62'>Parker's Heritage Collection</option>							<option value='456'>Paul John</option>							<option value='297'>Pearse Lyons Reserve</option>							<option value='14'>Pebble Beach</option>							<option value='170'>Penderyn</option>							<option value='7'>Pendleton</option>							<option value='469'>PennyPacker</option>							<option value='422'>Pike Creek</option>							<option value='479'>Pine Barrens</option>							<option value='467'>Poit Dhubh</option>							<option value='511'>Popcorn Sutton</option>							<option value='191'>Port Askaig</option>							<option value='574'>Port Dundas</option>							<option value='141'>Port Ellen</option>							<option value='213'>Powers</option>							<option value='358'>Prichard's</option>							<option value='63'>Pure Kentucky XO</option>							<option value='347'>Ranger Creek</option>							<option value='586'>Ransom</option>							<option value='64'>Red Neck</option>							<option value='336'>Red Stag</option>							<option value='289'>Redbreast</option>							<option value='225'>Redemption Rye </option>							<option value='349'>Reservoir </option>							<option value='337'>Revel Stoke</option>							<option value='384'>Rich and Rare</option>							<option value='165'>Rittenhouse</option>							<option value='369'>Rock Town</option>							<option value='495'>Rod & Rifle</option>							<option value='212'>Rogue</option>							<option value='541'>Ron Burgundy</option>							<option value='142'>Rosebank</option>							<option value='480'>Rough Rider</option>							<option value='304'>Roughstock</option>							<option value='66'>Rowan's Creek</option>							<option value='143'>Royal Brackla</option>							<option value='235'>Royal Canadian</option>							<option value='207'>Royal Lochnagar</option>							<option value='491'>Royal Salute</option>							<option value='405'>Russell's Reserve</option>							<option value='1'>Russell's Reserve Rye</option>							<option value='499'>Ryan & Wood</option>							<option value='156'>Sam Houston</option>							<option value='445'>Samish Bay</option>							<option value='317'>Santis</option>							<option value='562'>Saxtons River distillery</option>							<option value='166'>Sazerac</option>							<option value='526'>Scallywag</option>							<option value='144'>Scapa</option>							<option value='450'>Schenley</option>							<option value='365'>Seagram's</option>							<option value='553'>Seven Stills</option>							<option value='205'>Sheep Dip</option>							<option value='463'>Shieldaig</option>							<option value='389'>Short Mountain</option>							<option value='528'>Signatory</option>							<option value='594'>Silver Lightning</option>							<option value='530'>Single Malts of Scotland</option>							<option value='273'>Singleton</option>							<option value='465'>Sir Edward</option>							<option value='202'>Slane Castle</option>							<option value='209'>Smokehead</option>							<option value='208'>Smoking Ember</option>							<option value='372'>Smooth Ambler</option>							<option value='484'>Snake River</option>							<option value='552'>Sons of Liberty</option>							<option value='561'>Sortilege</option>							<option value='354'>Southern Coast</option>							<option value='339'>Southern Comfort</option>							<option value='588'>Southern Shine</option>							<option value='474'>Southshot</option>							<option value='568'>Spey Royal Choice</option>							<option value='271'>Speyburn</option>							<option value='335'>Spicebox</option>							<option value='501'>Spirit Hound</option>							<option value='381'>Spirit of Broadside</option>							<option value='458'>Spirit of Hven</option>							<option value='146'>Springbank</option>							<option value='409'>St. George</option>							<option value='34'>St. George Single Malt</option>							<option value='218'>St. George's </option>							<option value='482'>Stalk & Barrel</option>							<option value='518'>Stauning</option>							<option value='391'>Still Waters</option>							<option value='282'>Stillhouse</option>							<option value='175'>Stranahan's</option>							<option value='543'>Strathclyde</option>							<option value='147'>Strathisla</option>							<option value='249'>Stronachie</option>							<option value='246'>Sullivans Cove</option>							<option value='438'>T.J. Pottinger</option>							<option value='423'>Taketsuru</option>							<option value='148'>Talisker</option>							<option value='149'>Tamdhu</option>							<option value='150'>Tamnavulin</option>							<option value='414'>Taos Lightning</option>							<option value='357'>Tap 357</option>							<option value='461'>Te Bheag</option>							<option value='211'>Teaninich</option>							<option value='437'>Teeling Whiskey</option>							<option value='395'>Telsington</option>							<option value='197'>Templeton</option>							<option value='439'>That Boutique-y Whisky Company</option>							<option value='178'>The Antiquary</option>							<option value='398'>The Big Smoke 60</option>							<option value='544'>The Exceptional</option>							<option value='573'>The Feathery</option>							<option value='599'>The Irishman</option>							<option value='564'>The Knot</option>							<option value='177'>The Last Drop</option>							<option value='571'>The Lost Distilleries</option>							<option value='12'>The MacTarnahan</option>							<option value='535'>The Maltman</option>							<option value='185'>The Notch</option>							<option value='520'>The One</option>							<option value='145'>The Speyside</option>							<option value='539'>The Tweeddale</option>							<option value='529'>The Whisky Exchange</option>							<option value='551'>Thistle Finch</option>							<option value='167'>Thomas H. Handy</option>							<option value='259'>Thomson</option>							<option value='285'>Three Ships</option>							<option value='151'>Tobermory</option>							<option value='153'>Tomatin</option>							<option value='152'>Tomintoul</option>							<option value='154'>Tormore</option>							<option value='502'>Toronto Distillery</option>							<option value='374'>Troy and Sons</option>							<option value='179'>Tullamore Dew</option>							<option value='155'>Tullibardine</option>							<option value='471'>Two Stars</option>							<option value='172'>Tyrconnell</option>							<option value='35'>Van Winkle Family</option>							<option value='375'>Vickers Brothers</option>							<option value='36'>Vintage Bourbon</option>							<option value='168'>Vintage Rye</option>							<option value='601'>Virgil Kaine</option>							<option value='37'>W. L. Weller</option>							<option value='507'>Watkins</option>							<option value='187'>Wemyss</option>							<option value='443'>Westward Oregon </option>							<option value='593'>Whipnose</option>							<option value='224'>WhistlePig</option>							<option value='376'>Whistling Andy</option>							<option value='221'>White Oak</option>							<option value='433'>White Owl</option>							<option value='452'>Wild Geese</option>							<option value='26'>Wild Scotsman</option>							<option value='38'>Wild Turkey</option>							<option value='40'>Willett Family Reserve</option>							<option value='169'>Willett Rye</option>							<option value='403'>William Grant's</option>							<option value='216'>William Heavenhill</option>							<option value='39'>William Larue Weller</option>							<option value='332'>Willowbank</option>							<option value='472'>Winchester</option>							<option value='449'>Windsor</option>							<option value='328'>Wiser's</option>							<option value='508'>Wood&#039;s</option>							<option value='41'>Woodford Reserve</option>							<option value='265'>Woodstone Creek</option>							<option value='353'>Writers Tears</option>							<option value='417'>XXX Shine</option>							<option value='392'>Yamazaki</option>							<option value='477'>Yellow Rose</option>							<option value='379'>Yellow Spot</option>							<option value='505'>Yoichi</option>							<option value='238'>Zuidam</option>			</select>				<div class="cl">&nbsp;</div>			<!--<label>Rating:</label>--><br/>            <select name="rating" id="Rating">                <option value="0">Search by Rating</option>                <option value="95-100"  >95 - 100</option>                <option value="90-94  ">90 - 94</option>                <option value="80-89"  >80 - 89</option>                <option value="70-79"  >70 - 79</option>                <option value="60-69"  >60 - 69</option>            </select> 			<div class="cl">&nbsp;</div>			<!--<label>Price Range:</label>--><br/>            <select name="price" id="Price">                <option value="0">Search by Price Range</option>                <option value="1-50"  >&lt; $50</option>                <option value="50-99"  >$50 - $99</option>                <option value="100-199"  >$100 - $199</option>                <option value="200-499"  >$200 - $499</option>                <option value="500-999"  >$500 - $999</option>                <option value="1000-1999"  >$1,000 - $1,999</option>                <option value="2000-2999"  >$2,000 - $2,999</option>                <option value="3000-4999"  >$3,000 - $4,999</option>                <option value="5000-99999"  >&gt; $5,000</option>              </select>            <div class="cl">&nbsp;</div>			<!--<label>Category:</label>--><br/>			<select name='category_id'>		<option value='0'>Search by Category</option>					<option value='42'>American Blended Whiskey</option>							<option value='15'>American Whiskey (Unspecified)</option>							<option value='31'>Australian Whisky</option>							<option value='52'>Austrian Whisky</option>							<option value='27'>Belgian Whisky</option>							<option value='53'>Bhutanese Whisky</option>							<option value='55'>Blended French Whisky</option>							<option value='17'>Blended Irish Whiskey</option>							<option value='3'>Blended Malt Scotch whisky</option>							<option value='4'>Blended Scotch Whisky</option>							<option value='7'>Bourbon/Tennessee</option>							<option value='10'>Canadian</option>							<option value='40'>Craft Whiskey</option>							<option value='49'>Danish</option>							<option value='48'>Dutch</option>							<option value='47'>English Blended Whisky</option>							<option value='44'>English Grain Spirit</option>							<option value='12'>European Whisky</option>							<option value='41'>Flavored Whisky & Liqueurs</option>							<option value='28'>French Whisky</option>							<option value='6'>Grain Scotch Whisky</option>							<option value='19'>Indian Whisky</option>							<option value='8'>Irish</option>							<option value='54'>Irish Blended Whiskey</option>							<option value='37'>Irish Single Pot Still</option>							<option value='46'>Italian</option>							<option value='11'>Japanese</option>							<option value='50'>Liechtenstein</option>							<option value='45'>Miscellaneous</option>							<option value='26'>Netherlands Whisky</option>							<option value='9'>New Zealand</option>							<option value='5'>Rye Whiskey</option>							<option value='20'>Single Grain Irish Whiskey</option>							<option value='51'>Single Grain Whisky</option>							<option value='18'>Single Malt American Whiskey</option>							<option value='21'>Single Malt Belgian Whisky</option>							<option value='23'>Single Malt English Whisky</option>							<option value='1'>Single Malt Scotch</option>							<option value='16'>Single Malt Swedish Whisky</option>							<option value='29'>South African Whisky</option>							<option value='32'>Spanish Single Malt</option>							<option value='39'>Swiss</option>							<option value='30'>Taiwanese Whisky</option>							<option value='2'>Unspecified Single Malt</option>							<option value='13'>Welsh Whisky</option>							<option value='33'>Wheat Whiskey</option>							<option value='34'>White Whiskey</option>			</select>				<div class="cl">&nbsp;</div>			<!--<label>Magazine Issue:</label>--><br/>			<select name='issue_id'>		<option value=0>Search by Magazine Issue</option>					<option value=79>Fall 2014</option>				<option value=78>Summer 2014</option>				<option value=74>Spring 2014</option>				<option value=73>Winter 2013</option>				<option value=72>Fall 2013</option>				<option value=63>Summer 2013</option>				<option value=62>Spring 2013</option>				<option value=61>Winter 2012</option>				<option value=60>Fall 2012</option>				<option value=59>Summer 2012</option>				<option value=58>Spring 2012</option>				<option value=57>Winter 2011</option>				<option value=56>Fall 2011</option>				<option value=55>Summer 2011</option>				<option value=54>Spring 2011</option>				<option value=53>Winter 2010</option>				<option value=52>Fall 2010</option>				<option value=51>Summer 2010</option>				<option value=49>Spring 2010</option>				<option value=4>Winter 2009</option>				<option value=35>Fall 2009</option>				<option value=26>Summer 2009</option>				<option value=9>Spring 2009</option>				<option value=44>Winter 2008</option>				<option value=12>Fall 2008</option>				<option value=3>Summer 2008</option>				<option value=30>Spring 2008</option>				<option value=37>Winter 2007</option>				<option value=27>Fall 2007</option>				<option value=17>Summer 2007</option>				<option value=21>Spring 2007</option>				<option value=50>Winter 2006</option>				<option value=11>Fall 2006</option>				<option value=22>Summer 2006</option>				<option value=42>Spring 2006</option>				<option value=15>Winter 2005</option>				<option value=5>Fall 2005</option>				<option value=46>Summer 2005</option>				<option value=33>Spring 2005</option>				<option value=20>Winter 2004</option>				<option value=36>Fall 2004</option>				<option value=18>Summer 2004</option>				<option value=19>Spring 2004</option>				<option value=48>Winter 2003</option>				<option value=40>Fall 2003</option>				<option value=32>Summer 2003</option>				<option value=47>Spring 2003</option>				<option value=16>Winter 2002</option>				<option value=10>Fall 2002</option>				<option value=23>Summer 2002</option>				<option value=29>Spring 2002</option>				<option value=31>Winter 2001</option>				<option value=25>Fall 2001</option>				<option value=24>Summer 2001</option>				<option value=34>Spring 2001</option>				<option value=41>Winter 2000</option>				<option value=13>Fall 2000</option>				<option value=45>Summer 2000</option>				<option value=1>Spring 2000</option>				<option value=8>Winter 1999</option>				<option value=2>Fall 1999</option>				<option value=6>Summer 1999</option>				<option value=39>Spring 1999</option>				<option value=43>Winter 1998</option>				<option value=7>Fall 1998</option>				<option value=14>Spring 1998</option>				<option value=38>Fall 1997</option>				<option value=28>Spring 1992</option></select>				<div class="cl">&nbsp;</div>			<!--<label>Reviewer:</label>--><br/>			<select name='reviewer'>		<option value=0>Search by Reviewer</option>					<option value=Dave_Broom>Dave Broom</option>				<option value=Davin_de_Kergommeaux>Davin de Kergommeaux</option>				<option value=Dominic_Roskrow>Dominic Roskrow</option>				<option value=Gavin_Smith>Gavin Smith</option>				<option value=Geoffrey_Kleinman>Geoffrey Kleinman</option>				<option value=John_Hansell>John Hansell</option>				<option value=Jonny_McCormick>Jonny McCormick</option>				<option value=Lew_Bryson>Lew Bryson</option></select>				<div class="cl">&nbsp;</div><br/><p class="buttons"><a class="button" href="" onclick="document.forms['whisky-search'].submit();return false;">SEARCH</a></p>			<!--input type="submit" value="SEARCH" class="button" /-->		</form></div></li><li id="text-3" class="widget widget_text">			<div class="textwidget"><h1>Rating Scheme</h1>
+<strong>95-100</strong><br>
+A classic! All components are balanced appropriately, with the complexity and character expected in a classic.
+<br><br>
+<strong>90-94</strong><br>
+Outstanding! One of the best for its style. Distinctive.
+<br><br>
+<strong>80-89</strong><br>
+Good to very good. Plenty of character and no identifiable flaws. Worth seeking out.
+<br><br>
+<strong>70-79</strong><br>
+Average. No unique qualities. Flaws possible.
+<br><br>
+<strong>60-69</strong><br>
+Below average. Major flaws. Avoid.</div>
+		</li><li id="text-14" class="widget widget_text">			<div class="textwidget"><!-- Sidebar-Top -->
+<div id='div-gpt-ad-1376601782969-2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376601782969-2'); });
+</script></div>
+		</li><li id="text-12" class="widget widget_text">			<div class="textwidget"><!-- Sidebar-Bottom -->
+<div id='div-gpt-ad-1376601782969-1' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376601782969-1'); });
+</script>
+</div></div>
+		</li><li id="carbon_social_widget-4" class="widget carbon_social_widget">						<li class="widget widget-socials">					<div class="widget-socials-head">						<h2 class="widget-title"><a href="https://sub.whiskyadvocate.com/servlet/OrdersGateway?cds_mag_code=MAV&cds_page_id=134776">Subscribe</a></h2>						<div class="socials">							<a href="https://www.facebook.com/whiskyadvocate" class="ico-facebook">facebook</a>							<a href="https://twitter.com/whiskyadvocate" class="ico-twitter">twitter</a>						</div><!-- /.socials -->					</div><!-- /.widget-socials-head -->					<div class="widget-socials-entry">						<p>							The Fall Issue of Whisky Advocate is on the newsstand and features 150 whisky reviews.</p>					</div><!-- /.widget-socials-entry -->				</li>				</li><li id="carbon_whisky_widget-3" class="widget carbon_whisky_widget">			<li class="widget widget-ad">					<div class="widget-ad-head">						<h2 class="widget-title"><a href="http://whiskyadvocate.com/events/">WhiskyFest Events</a></h2>					</div><!-- /.widget-ad-head -->					<div class="widget-image"><a href="http://whiskyadvocate.com/events/"><img src="http://whiskyadvocate.com/wp-content/uploads/2013/06/ad2.jpg" alt="" /></a></div><!-- /.widget-image -->					<div class="widget-ad-entry">						<p>WhiskyFest<sup>™</sup> is the longest-running and best-attended whisky festival in the U.S. It is unique, offering the finest whiskies from all around the world, poured by the people — the very living legends — who make them. It was created by Whisky Advocate magazine, the country’s leading whisky publication.</p>
+<p>Do you want to learn more, know more, experience more about whisky? Whether you're a whisky novice or a seasoned enthusiast, if you love whisky, WhiskyFest is for you!</p>
+<p><a class="button" href="http://whiskyadvocate.com/events/whiskyfest-tickets/">ORDER TICKETS HERE.</a></p>
+					</div><!-- /.widget-ad-entry -->				</li>		</li>	</ul>
+			</ul>
+		</div><!-- /.sidebar -->
+
+
+	</div><!-- /.shell -->
+</div><!-- /.main -->
+
+
+
+
+<div class="section">
+	<div class="cols">
+		<div class="shell">
+			<ul>
+				<div class="menu-footer-menus-container"><ul id="menu-footer-menus" class="menu"><li id="menu-item-10736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10736"><a href="#">Categories</a>
+<ul class="sub-menu">
+	<li id="menu-item-10737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10737"><a href="http://whiskyadvocate.com/events/">Events</a></li>
+	<li id="menu-item-10738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10738"><a href="http://whiskyadvocate.com/magazine/">Magazine</a></li>
+	<li id="menu-item-13285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13285"><a href="http://whiskyadvocate.com/buying-guide/">Buying Guide</a></li>
+	<li id="menu-item-10740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10740"><a href="http://whiskyadvocate.com/blog/">Blog</a></li>
+	<li id="menu-item-10741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10741"><a href="http://whiskyadvocate.com/?page_id=10677">Shop</a></li>
+	<li id="menu-item-10742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10742"><a href="http://whiskyadvocate.com/whisky-101/">Whisky 101</a></li>
+</ul>
+</li>
+<li id="menu-item-10749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10749"><a href="http://whiskyadvocate.com/magazine/">Magazine</a>
+<ul class="sub-menu">
+	<li id="menu-item-10750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10750"><a href="/magazine">In this Issue</a></li>
+	<li id="menu-item-10751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10751"><a href="http://whiskyadvocate.com/magazine/about-whisky-advocate/">About Whisky Advocate</a></li>
+	<li id="menu-item-10752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752"><a href="http://whiskyadvocate.com/magazine/im-a-whisky-advocate/">I&#8217;m a Whisky Advocate</a></li>
+	<li id="menu-item-10753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10753"><a target="_blank" href="https://sub.winespectator.com/servlet/ECareGateway?cds_mag_code=WNE">Customer Care</a></li>
+	<li id="menu-item-10754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10754"><a href="http://whiskyadvocate.com/magazine/contact/">Contact</a></li>
+	<li id="menu-item-10755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10755"><a target="_blank" href="https://sub.whiskyadvocate.com/pubs/M5/MAV/WASub1year18Offer.jsp?cds_page_id=134776&#038;cds_mag_code=MAV&#038;id=1373297484922&#038;lsid=31891007316013639&#038;vid=3">Print Subscription</a></li>
+	<li id="menu-item-10756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10756"><a target="_blank" href="https://www.zinio.com/checkout/publisher/?productId=500659318&#038;offer=500425475&#038;bd=1&#038;pss=1&#038;WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB">Digital Subscription</a></li>
+	<li id="menu-item-10757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10757"><a target="_blank" href="https://sub.whiskyadvocate.com/servlet/GiftsGateway?cds_mag_code=MAV&#038;cds_page_id=136730">Gift Subscription</a></li>
+	<li id="menu-item-10758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10758"><a target="_blank" href="http://mshanken.buysub.com/whiskey-advocate.html">Back Issues</a></li>
+</ul>
+</li>
+<li id="menu-item-10743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10743"><a href="http://whiskyadvocate.com/help/">Help</a>
+<ul class="sub-menu">
+	<li id="menu-item-10744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10744"><a href="http://whiskyadvocate.com/help/find-a-retailer/">Find a Retailer</a></li>
+	<li id="menu-item-10745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10745"><a href="http://whiskyadvocate.com/help/find-a-craft-distiller/">Find a Craft Distiller</a></li>
+	<li id="menu-item-10746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10746"><a href="http://whiskyadvocate.com/help/faq/">FAQ</a></li>
+	<li id="menu-item-10748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10748"><a href="http://whiskyadvocate.com/help/privacy-statement/">Privacy Statement</a></li>
+</ul>
+</li>
+<li id="menu-item-10759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10759"><a>Get Social</a>
+<ul class="sub-menu">
+	<li id="menu-item-10760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10760"><a target="_blank" href="https://www.facebook.com/whiskyadvocate">Whisky Advocate on Facebook</a></li>
+	<li id="menu-item-10761" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10761"><a target="_blank" href="https://twitter.com/WhiskyAdvocate">Whisky Advocate on Twitter</a></li>
+	<li id="menu-item-10762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10762"><a target="_blank" href="http://feedburner.google.com/fb/a/mailverify?uri=whiskyadvocateblog/fnOV&#038;loc=en_US">Subscribe to Blog</a></li>
+	<li id="menu-item-13641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13641"><a href="https://www.facebook.com/whiskyfest">WhiskyFest on Facebook</a></li>
+	<li id="menu-item-13642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13642"><a href="https://twitter.com/whiskyfest">WhiskyFest on Twitter</a></li>
+	<li id="menu-item-13643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13643"><a href="http://feedburner.google.com/fb/a/mailverify?uri=feedburner/Mdhrx&#038;loc=en_US">Subscribe to WhiskyFest Blog</a></li>
+	<li id="menu-item-13644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13644"><a href="http://visitor.constantcontact.com/manage/optin/ea?v=001peuSb9w_PdAUoEAE5adOcQ%3D%3D">Subscribe to WhiskyNotes</a></li>
+</ul>
+</li>
+</ul></div>			</ul>
+		</div><!-- /.shell -->
+	</div><!-- /.cols -->
+	<p style="color:#FFFFFF;">&copy; Copyright 2014. Whisky Advocate. All rights reserved.</p>
+</div><!-- /.section -->
+
+		
+<script type="text/javascript"><!--
+wpa2a.targets=[];
+wpa2a.html_done=true;if(wpa2a.script_ready&&!wpa2a.done)wpa2a.init();wpa2a.script_load();
+//--></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/whiskyadvocate.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/whiskyadvocate.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/shortcode.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-admin/js/media-upload.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1412440146","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-includes/js/utils.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://whiskyadvocate.com/wp-admin/js/editor.min.js?ver=4.0'></script>
+<script>var pltNewTabURLs = ["https:\/\/www.zinio.com\/checkout\/publisher\/?productId=500659318&offer=500425475&bd=1&pss=1&WT.mc_id=PUB_WWW_Title_GLOBAL_051712_WhiskyPUB","https:\/\/sub.whiskyadvocate.com\/pubs\/M5\/MAV\/WASub1year18Offer.jsp?cds_page_id=134776&cds_mag_code=MAV&id=1373297484922&lsid=31891007316013639&vid=3","https:\/\/sub.winespectator.com\/servlet\/ECareGateway?cds_mag_code=WNE","https:\/\/sub.whiskyadvocate.com\/servlet\/GiftsGateway?cds_mag_code=MAV&cds_page_id=136730","http:\/\/mshanken.buysub.com\/whiskey-advocate.html","https:\/\/sub.whiskyadvocate.com\/pubs\/M5\/MAV\/WASub1year18Offer.jsp?cds_page_id=134776&cds_mag_code=MAV&id=1373905959894&lsid=31961132398019158&vid=1"];(function(){jQuery(function(e){return e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")})})}).call(this);</script></body>
+</html>
+
+<!-- 
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/whisky-the-manual-by-dave-broom/">
+<img alt="WHISKY The Manual &#8211; by Dave Broom" title="WHISKY The Manual &#8211; by Dave Broom" src="http://whiskyadvocate.com/wp-content/uploads/2014/05/Dave-brooms-Whisky-The-manual-148x148.png" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/whisky-the-manual-by-dave-broom/">WHISKY The Manual &#8211; by Dave Broom</a></strong></p>
+<p>$19.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-cap/">
+<img alt="WhiskyFest Cap" title="WhiskyFest Cap" src="http://whiskyadvocate.com/wp-content/uploads/2013/12/whiskyfest-caps-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-cap/">WhiskyFest Cap</a></strong></p>
+<p>$19.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-polo-shirt/">
+<img alt="WhiskyFest Polo Shirt" title="WhiskyFest Polo Shirt" src="http://whiskyadvocate.com/wp-content/uploads/2013/10/whiskyfest-polo-shirt-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-polo-shirt/">WhiskyFest Polo Shirt</a></strong></p>
+<p>$32.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-bar-towel/">
+<img alt="WhiskyFest Bar Towel" title="WhiskyFest Bar Towel" src="http://whiskyadvocate.com/wp-content/uploads/2013/10/Bar-towel11-14-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/whiskyfest-bar-towel/">WhiskyFest Bar Towel</a></strong></p>
+<p>$13.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-whisky-nosing-glasses-set-of-six/">
+<img alt="Glencairn Whisky Nosing Glasses &#8211; Set of Six" title="Glencairn Whisky Nosing Glasses &#8211; Set of Six" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/nosing-glasses-set-of-six-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-whisky-nosing-glasses-set-of-six/">Glencairn Whisky Nosing Glasses &#8211; Set of Six</a></strong></p>
+<p>$52.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-whisky-nosing-glasses-set-of-two/">
+<img alt="Glencairn Whisky Nosing Glasses &#8211; Set of Two" title="Glencairn Whisky Nosing Glasses &#8211; Set of Two" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/glencairn-whisky-nosing-glasses-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-whisky-nosing-glasses-set-of-two/">Glencairn Whisky Nosing Glasses &#8211; Set of Two</a></strong></p>
+<p>$21.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-wide-bowl-set-of-two/">
+<img alt="Glencairn Wide Bowl &#8211; Set of Two" title="Glencairn Wide Bowl &#8211; Set of Two" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/glencairn-wide-bowl-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-wide-bowl-set-of-two/">Glencairn Wide Bowl &#8211; Set of Two</a></strong></p>
+<p>$22.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-wide-bowl-set-of-six/">
+<img alt="Glencairn Wide Bowl &#8211; Set of Six" title="Glencairn Wide Bowl &#8211; Set of Six" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/wide-bottom-set-of-six-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-wide-bowl-set-of-six/">Glencairn Wide Bowl &#8211; Set of Six</a></strong></p>
+<p>$53.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-glass-and-water-jug-set/">
+<img alt="Glencairn Glass and Water Jug Set" title="Glencairn Glass and Water Jug Set" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/glencairn-glass-water-jug-set.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-glass-and-water-jug-set/">Glencairn Glass and Water Jug Set</a></strong></p>
+<p>$59.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/bottega-whisky-tots/">
+<img alt="Bottega Whisky Tots" title="Bottega Whisky Tots" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/bottega-whisky-tots-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/bottega-whisky-tots/">Bottega Whisky Tots</a></strong></p>
+<p>$69.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/the-malt-whisky-map/">
+<img alt="The Malt Whisky Map" title="The Malt Whisky Map" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/malt-whisky-map-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/the-malt-whisky-map/">The Malt Whisky Map</a></strong></p>
+<p>$12.99</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/the-neat-glass/">
+<img alt="The NEAT Glass" title="The NEAT Glass" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/neat-glass-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/the-neat-glass/">The NEAT Glass</a></strong></p>
+<p>$28.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/dalvey-flask/">
+<img alt="Dalvey Flask" title="Dalvey Flask" src="http://whiskyadvocate.com/wp-content/uploads/2013/07/dalvey-flask-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/dalvey-flask/">Dalvey Flask</a></strong></p>
+<p>$89.00</p>
+
+
+<a href="http://whiskyadvocate.com/products-page/product-category/glencairn-cut-crystal-nosing-glasses/">
+<img alt="Glencairn Cut Crystal Nosing Glasses" title="Glencairn Cut Crystal Nosing Glasses" src="http://whiskyadvocate.com/wp-content/uploads/2014/02/glencairn-cut-glass-148x148.jpg" />
+</a>
+
+<p><strong><a href="http://whiskyadvocate.com/products-page/product-category/glencairn-cut-crystal-nosing-glasses/">Glencairn Cut Crystal Nosing Glasses</a></strong></p>
+<p>$89.99</p>
+
+ -->
+<!-- Dynamic page generated in 1.997 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-10-04 12:29:08 -->
+

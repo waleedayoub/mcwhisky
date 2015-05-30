@@ -1,0 +1,8 @@
+# run these bash commands after to clean the file
+# capture output of script
+./getreviews_whisky.py | tee prep1.txt
+
+grep -E -v '^-' whisky1.txt > whisky2.txt
+sed '/^[[:space:]]*$/d;s/[[:space:]]*$//' whisky2.txt > whisky3.txt
+sed 's/^/BEGIN NOW /' whisky3.txt > whisky4.txt
+sed 's/$/ END/' whisky4.txt > whisky_final.txt
